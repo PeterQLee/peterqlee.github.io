@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["estimate_k_values","Estimates k values for square of image x and noise field y Assumes that x and y have already been divided by 10000.0 for scaling purposes."]]});

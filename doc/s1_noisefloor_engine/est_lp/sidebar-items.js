@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["scs_solve_lp",""],["solve_lp","Sets up linear program to be solved in SCS. * `lreal`- slice of log measured values * `lant`- slice of log antenna values * `hyper`- hyper params to send to SCS."]],"struct":[["lin_params",""],["lp_scs_settings",""]]});
